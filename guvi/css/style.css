@@ -1,0 +1,205 @@
+.layer1
+{
+	background:black;
+	padding-bottom:10px;
+	position:fixed;
+	width:100%;
+	z-index: 10001;
+	
+}
+.menu 
+{
+	padding-top:22px;
+}
+.menu a
+{
+	padding-left:50px;
+	font-size:20px;
+	color:white;
+}
+.logo
+{
+color:red;
+font-family:Brush Script Std;
+}
+.logo h3	
+{
+font-size:40px;
+}
+.layer2
+{
+	background-image:url("../images/img1.jpg");
+	height:100%;
+}
+.layer2 p
+{
+	padding-left:80px;
+	padding-top:270px;
+	color:white;
+	font-size:40px;
+}
+.button1
+{
+padding-left:80px;
+padding-top:20px;
+
+}
+.button1 a
+{
+font-size:20px;
+background-color:transparent;
+border-color:white;
+color:white;
+}
+.para2 h2
+{
+	color:red;
+	font-weight:bold;
+	padding-top:60px;
+	padding-bottom:25px;
+}
+
+.para2 p
+{
+font-size:16px;
+line-height:40px;
+}
+
+.button2 a
+{
+	font-size:20px;
+	color:red;
+	border-color:red;
+}
+.button2
+{
+padding-top:20px;
+padding-bottom:80px;
+}
+.row p
+{
+	padding-top:30px;
+	font-size:17px;
+	line-height:30px;
+	font-style:italic;
+}
+	
+.temp2 img
+{
+	padding-top:80px;
+	width:50px;
+}
+
+.temp1 img
+{padding-top:80px;
+	width:50px;
+}
+.temp3 img
+{padding-top:80px;
+	width:50px;
+}
+.layer5 h3
+{
+	font-weight:bold;
+	color:red;
+}
+.layer5{
+padding-bottom:20px;}
+.layer5 a{
+width:150px;
+border-color:red;
+color:red;
+}
+.bi
+{
+padding-top:30px;
+border-color:red;
+padding-bottom:20px;
+}
+.layer6
+{
+	padding-top:50px;
+	background:#e5474b;
+}
+.layer6 label
+{	color:white;
+     font-size:15px;
+		background:transparent;
+}
+.layer6 input
+{
+background:transparent;
+
+    border: solid 3px;
+	border-color:rgba(255, 255, 255, 0.25);
+}	
+.layer6 textarea
+{
+background:transparent;
+border: solid 3px;
+	border-color:rgba(255, 255, 255, 0.25);}	
+	
+.head1 h2
+{
+color:white;
+padding-left:100px;
+padding-bottom:40px;
+}	
+	
+.idf a
+{
+	
+border-color:white;
+color:white;
+background:transparent;}	
+.idf
+{
+padding-top:20px;
+padding-bottom:50px;
+}
+.layer4
+{7
+background:#f3f3f3;
+padding-top:50px;
+padding-bottom:50px;
+}	
+.layer4 h3
+{
+	color:red;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+ .layer6 input:focus
+{
+border-color:white;
+}	
+	
+.layer6 textarea:focus
+{
+	border-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
